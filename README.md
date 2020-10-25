@@ -4,31 +4,32 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 
 🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
 
-[![Email Badge](https://img.shields.io/badge/-contact@nihel.tech-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@nihel.tech)](mailto:contact@nihel.tech)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihel-akremi/)](https://www.linkedin.com/in/nihel-akremi/) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-success?style=flat-square&logo=Portfolio&logoColor=white)](https://www.nihel.tech)
+[![Email Badge](https://img.shields.io/badge/contact@nihel.tech-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@nihel.tech)](mailto:contact@nihel.tech)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3DA639?style=flat-square&logo=Portfolio&logoColor=white&link=https://www.nihel.tech)](https://www.nihel.tech)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihel-akremi/)](https://www.linkedin.com/in/nihel-akremi/)  -->
 
 
 ## 🔧 Technologies & Tools 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS%20-%23404d59.svg?&style=flat-square)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-%23404d59?&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=Redis)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=firebase&logoColor=black)
 
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/SASS%20-hotpink?&style=flat-square&logo=SASS&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?&style=flat-square&logo=SASS&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitLab](https://img.shields.io/badge/GitLab%20CI/CD-181717?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&logoColor=grey)
+![GitLab](https://img.shields.io/badge/GitLab%20CI/CD-black?style=flat-square&logo=gitlab)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 
