@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nihel 👋
 
-My name is Nihel Akremi and I’m a passionate software engineer.
+I’m a passionate software engineer.
 
 🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
 
@@ -10,7 +10,7 @@ My name is Nihel Akremi and I’m a passionate software engineer.
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success?style=flat-square)](https://www.nihel.tech)
 
 
-## Projects
+<!-- ## Projects -->
 
 ## ⚡ Technologies & Tools 
 
