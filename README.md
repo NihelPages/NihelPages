@@ -1,16 +1,9 @@
 ### Hi there, I'm Nihel 👋
 
-I’m a passionate software engineer.
-
-🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
-
-<!-- 🌱 I’m currently learning React Native & Typescript -->
+I’m a passionate software engineer. 🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihel-akremi/)](https://www.linkedin.com/in/nihel-akremi/) 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-success?style=flat-square)](https://www.nihel.tech)
-
-
-<!-- ## Projects -->
 
 ## ⚡ Technologies & Tools 
 
