@@ -4,8 +4,8 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 
 🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
 
-[![Email Badge](https://img.shields.io/badge/contact@nihel.tech-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@nihel.tech)](mailto:contact@nihel.tech)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3DA639?style=flat-square&logo=Portfolio&logoColor=white&link=https://www.nihel.tech)](https://www.nihel.tech)
+<!-- [![Email Badge](https://img.shields.io/badge/contact@nihel.tech-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@nihel.tech)](mailto:contact@nihel.tech)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3DA639?style=flat-square&logo=Portfolio&logoColor=white&link=https://www.nihel.tech)](https://www.nihel.tech) -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihel-akremi/)](https://www.linkedin.com/in/nihel-akremi/)  -->
 
 
@@ -29,7 +29,7 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&logoColor=grey)
-![GitLab](https://img.shields.io/badge/GitLab%20CI/CD-black?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/GitLab%20CI-black?style=flat-square&logo=gitlab)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 
