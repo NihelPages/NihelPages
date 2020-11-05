@@ -25,10 +25,11 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
 <!-- ![Polymer](https://img.shields.io/badge/Polymer-FF4470?style=flat-square&logo=polymer-project&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js/Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) -->
-![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
