@@ -12,18 +12,22 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 ## 🔧 Technologies & Tools 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![ES6](https://img.shields.io/badge/ECMAScript%202015+-F0DB4F?style=flat-square)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-%23404d59?&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=Redis)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=firebase&logoColor=black)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?&style=flat-square&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
+<!-- ![Polymer](https://img.shields.io/badge/Polymer-FF4470?style=flat-square&logo=polymer-project&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js/Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) -->
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
