@@ -2,7 +2,7 @@
 
 I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean and maintainable code. 
 
-🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. 
+<!--🔭 I’m currently working on some side projects based on Web Development and looking for new opportunities 👯. -->
 
 <!-- [![Email Badge](https://img.shields.io/badge/contact@nihel.tech-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@nihel.tech)](mailto:contact@nihel.tech)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3DA639?style=flat-square&logo=Portfolio&logoColor=white&link=https://www.nihel.tech)](https://www.nihel.tech) -->
