@@ -23,7 +23,6 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?&style=flat-square&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
 <!-- ![Polymer](https://img.shields.io/badge/Polymer-FF4470?style=flat-square&logo=polymer-project&logoColor=white)
