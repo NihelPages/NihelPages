@@ -22,13 +22,14 @@ I’m a ✨ _passionate_ ✨ software engineer with focus on high quality, clean
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?&style=flat-square&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
-<!-- ![Polymer](https://img.shields.io/badge/Polymer-FF4470?style=flat-square&logo=polymer-project&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js/Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) -->
 
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
